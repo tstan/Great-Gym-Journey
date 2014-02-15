@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=Taco(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ selfDestruct()
+comment2.text=\r\n\ Coded\ by\:\ Theodore\ Tan\r\n
+numComments=3

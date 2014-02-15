@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StartScreen()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ StartScreen;\r\n\ Whole\ class\ by\ Franklin\ Chang\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Original\ code\ by\ THEO,\ EDITED\ BY\ FRANKLIN\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ CODED\ BY\ FRANKLIN\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ CODED\ BY\ FRANKLIN\r\n
+numComments=4

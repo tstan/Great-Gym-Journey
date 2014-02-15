@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HitBox()
+comment0.text=\r\n\ ALL\ HITBOXES\ CODED\ BY\ JACOB\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ CODED\ BY\ JACOB\r\n
+comment2.params=img
+comment2.target=void\ gotHit(greenfoot.GreenfootImage)
+comment2.text=\r\n\ CODED\ BY\ SPENCER,\ JARED\r\n
+numComments=3

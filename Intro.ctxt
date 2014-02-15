@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=void\ setImage(java.lang.String)
+comment1.params=
+comment1.target=java.util.List\ getImages()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ nextFrame()
+comment4.params=
+comment4.target=void\ loadImages()
+numComments=5

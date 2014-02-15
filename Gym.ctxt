@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=Gym(int)
+comment0.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment2.params=
+comment2.target=void\ winGame()
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ CODED\ BY\ JARED\r\n
+numComments=4

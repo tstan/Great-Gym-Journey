@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IceCreamHitBox()
+comment0.text=\r\n\ MOST\ CODED\ BY\ JACOB\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ shoot()
+comment3.text=\r\n\ CODED\ BY\ SPENCER\ for\ original\ ice\ cream\ cannon\r\n
+comment4.params=
+comment4.target=void\ icecream()
+comment4.text=\r\n\ CODED\ BY\ SPENCER\:\ added\ increased\ variety.\r\n
+comment5.params=
+comment5.target=int\ getHits()
+comment6.params=
+comment6.target=void\ health()
+comment6.text=\r\n\ CODED\ BY\ SPENCER,\ JARED,\ THEO\ in\ many\ enemy\ places\ for\ explosion\ effects.\r\n
+numComments=7

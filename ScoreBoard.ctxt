@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=boardWidth\ boardHeight\ boardTransparency\ score\ label
+comment0.target=ScoreBoard(int,\ int,\ int,\ int,\ java.lang.String)
+comment0.text=\r\n\ CODED\ BY\ SPENCER\ AND\ JARED\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=pts
+comment4.target=void\ addScore(int)
+comment5.params=
+comment5.target=void\ makeBoard()
+comment6.params=
+comment6.target=void\ update()
+numComments=7

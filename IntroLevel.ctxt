@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=haungs\ score
+comment0.target=IntroLevel(boolean,\ int)
+comment0.text=\r\n\ THIS\ CLASS\ IS\ NO\ LONGER\ USED\:\r\n\ HOWEVER,\ IT\ MAY\ BE\ USED\ IN\ THE\ FUTURE.\r\n\ CODED\ BY\ SPENCEr,\ jARED\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ XLocation()
+comment4.params=
+comment4.target=int\ YLocation()
+comment5.params=
+comment5.target=void\ EnemySpawn()
+numComments=6

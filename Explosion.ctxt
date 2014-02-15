@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Explosion()
+comment0.text=\r\n\ Spencer/Franklin\r\n
+comment1.params=
+comment1.target=void\ initializeImages()
+comment1.text=\r\n\ Franklin\:\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Franklin\:\r\n
+comment3.params=
+comment3.target=void\ explode()
+comment3.text=\r\n\ Spencer\:\ Originally\ had\ the\ explosion\ start\ off\ strong\ and\ fade\ away.\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Jared\:\ Scrolling\ method\ for\ the\ explosions,\ so\ they\ move\ in-game.\r\n
+numComments=5

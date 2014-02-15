@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=Boss(int)
+comment0.text=\r\n\ CODED\ BY\ JARED\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment2.params=
+comment2.target=void\ die()
+comment2.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment3.params=
+comment3.target=void\ spawnBurgers()
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment5.params=
+comment5.target=void\ bossFight()
+comment5.text=\r\n\ CODED\ BY\ SPENCER\r\n
+numComments=6

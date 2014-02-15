@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RockDust()
+comment0.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=width
+comment2.target=void\ makeDust(int)
+comment2.text=\r\n\ Makes\ a\ dusty\ tail\ for\ the\ rock\:\r\n\ This\ code\ should\ use\ bigger\ parameter\ for\ width/height\ to\ SHOW\ POWAAAAAAA\:\r\n\ Since\ the\ image\ is\ a\ square,\ one\ parameter\ should\ suffice.\r\n\ CODED\ BY\ SPENCER\r\n
+numComments=3

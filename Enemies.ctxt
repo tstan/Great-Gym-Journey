@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemies()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ canHit()
+comment2.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment3.params=
+comment3.target=void\ scroll()
+comment3.text=\r\n\ CODED\ BY\ JARED\r\n
+comment4.params=
+comment4.target=void\ health()
+comment4.text=\r\n\ Will\ decrease\ health\ and\ call\ health\ function\ from\ street.\r\n\ CODED\ BY\ SPENCER,\ THEO,\ JARED\r\n
+comment5.params=
+comment5.target=void\ spawnPower()
+comment5.text=\r\n\ CODED\ BY\ SPENCER\ &\ JACOB\r\n
+comment6.params=
+comment6.target=void\ noDoubles()
+comment6.text=\r\n\ CODED\ BY\ SPENCER\r\n
+numComments=7

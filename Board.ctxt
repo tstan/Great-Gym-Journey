@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\r\n\ CODED\ BY\ SPENCER\:\ Board\ is\ not\ used\ anymore,\ but\ it\ originally\ was\ used\ to\ say,\r\n\ "'Space'\ to\ fire"\ or\ something\ like\ that.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=boardWidth\ boardHeight\ boardTransparency\ label
+comment2.target=Board(int,\ int,\ int,\ java.lang.String)
+comment3.params=boardWidth\ boardHeight\ boardTransparency\ label
+comment3.target=void\ makeBoard(int,\ int,\ int,\ java.lang.String)
+comment4.params=label
+comment4.target=void\ update(java.lang.String)
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameOverScreen()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOverScreen.\r\n\ CODED\ BY\ SPENCER,\ JARED\r\n
+comment1.params=score\ level
+comment1.target=GameOverScreen(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ reStart()
+comment3.text=\r\n\ CODED/EDITED\ BY\ SPENCER,\ JARED,\ JACOB\r\n
+comment4.params=
+comment4.target=void\ braveNewWorld()
+comment4.text=\r\n\ When\ this\ method\ is\ called,\ the\ level\ the\ player\ was\ on\ is\ created\ and\ set\ before\ them.\r\n\ CODED\ BY\ JARED\r\n
+numComments=5

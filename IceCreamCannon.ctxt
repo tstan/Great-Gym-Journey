@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IceCreamCannon()
+comment0.text=\r\n\ ALL\ CODED\ BY\ SPENCER\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ FriesCannon\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkPos()
+comment2.text=\r\n\ CODED\ BY\ SPENCEr\r\n
+comment3.params=
+comment3.target=void\ inAndOut()
+comment3.text=\r\n\ CODED\ BY\ SPENCER\ CHANG\r\n
+comment4.params=
+comment4.target=void\ spawnIceCream()
+comment4.text=\r\n\ CODED\ BY\ SPENCEr\r\n
+numComments=5

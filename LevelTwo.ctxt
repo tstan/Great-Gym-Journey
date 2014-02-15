@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=haungs\ score\ level
+comment0.target=LevelTwo(boolean,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level2;\r\n\ The\ addObject\ guarantees\ that\ the\ player\ will\ see\ the\ new\ enemy\ when\ they\ scroll\ right;\r\n\ COMMENTS\ VERY\ SIMILAR\ TO\ LEVELONE\ CLASS.\r\n\ CODED\ BY\ SPENCEr\ &\ JaRED\r\n
+comment1.params=score\ level
+comment1.target=LevelTwo(int,\ int)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act()\ will\ check\ for\ the\ scrolling\ of\ the\ player\ from\ Street.scrolling\ and\ set\ canScroll\ \=\ true\:\r\n\ The\ distance\ is\ checked\ so\ the\ level\ will\ end\ at\ the\ proper\ distance\:\r\n\ Once\ the\ level\ ends,\ it\ will\ go\ to\ the\ 2nd\ boss\ battle.\r\n\ CODED\ BY\ SPENCER\ &\ JARED\r\n
+comment4.params=
+comment4.target=void\ EnemySpawn()
+comment4.text=\r\n\ This\ level\ only\ spawns\ PizzaParlors\ and\ BurgerShacks.\r\n\ CODED\ BY\ SPENCER\r\n
+comment5.params=
+comment5.target=void\ EnemySpawnTwo()
+numComments=6

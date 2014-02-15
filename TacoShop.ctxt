@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment1.params=
+comment1.target=void\ shoot()
+comment1.text=\r\n\ Shoot()\ shoots\ the\ tacos\ in\ a\ burst\ of\ three\ shots\ each\ time\ that\ burst\ reaches\ 101.\r\n\ CODED\ BY\ SPENCEr\r\n
+comment2.params=
+comment2.target=void\ tacos()
+comment2.text=\r\n\ tacos()\ is\ the\ tacospawn\ calling\ method\:\r\n\ It\ orients\ the\ taco\ so\ our\ group\ can\ have\ the\ "move(int)"\ ability.\r\n\ If\ we\ changed\ the\ x\ position,\ it\ would\ be\ difficult\ to\ get\ the\ food\ to\ move\ in\ a\ straight\ line\ after\r\n\ going\ towards\ the\ player's\ avatar.\r\n\ CODED\ BY\ JARED\r\n
+numComments=3

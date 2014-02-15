@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=Rock(int)
+comment0.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment1.params=
+comment1.target=void\ collision()
+comment1.text=\r\n\ CODED\ BY\ SPENCER\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ CODED\ BY\ SPENCER\ &\ JOSEPH\r\n
+comment3.params=
+comment3.target=boolean\ selfDestruct()
+comment3.text=\r\n\ CODED\ BY\ THEO\r\n
+comment4.params=
+comment4.target=void\ minimize()
+comment4.text=\r\n\ CODED\ BY\ JOSEPH\r\n
+comment5.params=
+comment5.target=boolean\ startMinimize()
+comment5.text=\r\n\ CODED\ BY\ JOSEPH\r\n
+numComments=6
